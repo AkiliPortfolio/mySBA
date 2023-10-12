@@ -142,8 +142,12 @@ html{
   letter-spacing: 0.15rem;
 }
 
-.aboutcards{
+.aboutCards {
 text-align: center;
+}
+
+.aboutCards img {
+  width: 50%;
 }
 
 .aboutCards .col {
